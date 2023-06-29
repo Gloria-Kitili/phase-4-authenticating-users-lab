@@ -29,8 +29,8 @@ function Login({ onLogin }) {
         onChange={(e) => setUsername(e.target.value)}
       />
       <button type="submit">Login</button>
-    </form>
-  );
+    </form>
+  );
 }
 
 export default Login;
